@@ -1,0 +1,2 @@
+1|Braulio|9841158529|28/07/26|11:30|Dolor de cabeza|DR.REMEDIOS|El paciente presenta fuertes dolores de cabeza ya que ha tenido muchos episodios de estres|Pendiente
+2|Alex Javier|9842540764|25/07/2026|14:30|Por dolor de cabeza|DR.REMEDIOS|El paciente presenta grandes dolores de cabeza|Pendiente
